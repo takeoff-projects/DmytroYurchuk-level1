@@ -17,3 +17,5 @@ tmp/
 
 terraform/*.tfstate
 terraform/*.tfstate.*
+terraform/.terraform
+terraform/.terraform.*

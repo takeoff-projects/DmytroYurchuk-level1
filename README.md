@@ -1,6 +1,5 @@
 # go-pets
 
-make start
+start.sh - init, build and deploy application
 
-
-make stop
+stop.sh - destroy application
